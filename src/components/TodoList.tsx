@@ -9,7 +9,7 @@ import {
   Typography,
 } from "antd";
 import { useTodoStore } from "../store/todoStore";
-import EditTodo from "./EditTodo";
+// import EditTodo from "./EditTodo";
 
 const TodoList = () => {
   const {
